@@ -6,4 +6,13 @@ Once you are able to view logs from the LFI vulnearbility, simply copy the URL (
 
 
 # Sample
+When you start the script, it is expecting the full URL 
 ![Starting the Script](intro.png)
+
+
+# Poison the Log File
+Once you have the URL, simply paste it in and logpoisoner will attemp to poison the log file
+![Poisoning](example.png)
+
+# RCE with LogPoisoner
+![RCE](rce.png)
