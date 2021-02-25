@@ -15,4 +15,4 @@ Once you have the URL, simply paste it in and logpoisoner will attemp to poison 
 ![Poisoning](example.png)
 
 # RCE with LogPoisoner
-![RCE](rce.png)
+![RCE](RCE.png)
