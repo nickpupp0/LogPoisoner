@@ -6,4 +6,4 @@ Once you are able to view logs from the LFI vulnearbility, simply copy the URL (
 
 
 # Sample
-![Starting the Script](/root/Desktop/logpoisoner/intro.png)
+![Starting the Script](intro.png)
